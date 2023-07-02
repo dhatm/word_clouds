@@ -12,7 +12,8 @@
 
 
 
-## Example Output (from Thomas Kuhn's _The Structure of Scientific Revolutions_)
+## Example Output 
+(from Thomas Kuhn's _The Structure of Scientific Revolutions_)
 ![Kuhn's Structure of Scientific Revolutions](results/wordcloud_Kuhn-SSR-2ndEd.jpg) 
 
 
