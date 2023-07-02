@@ -10,7 +10,7 @@
 
 
 ## Notebooks
-1. make_world_cloud.ipynb -- contains all the code to ingests text from pdf(s), processes it, and makes a word cloud(s)
+1. make_world_cloud.ipynb -- contains all the code. Results are put in the `results/` folder.  Input pdfs are in `inputs/` folder
 
 
 
