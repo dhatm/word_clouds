@@ -4,9 +4,9 @@
 <br>
 
 **Requirements:**<br>
-	PyPDF2, nltk, wordcloud, collection
-	wordcloud depends on numpy, pillow, and matplotlib
-
+"""	
+PyPDF2, nltk, wordcloud, collection, numpy, pillow, and matplotlib
+"""
 
 
 ## Notebooks
