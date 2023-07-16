@@ -1,5 +1,5 @@
 # word_clouds
-**Description:** ingests text from pdf(s), processes it, and makes a word cloud(s). These are useful for hings like [concept maps][cmaps].
+**Description:** ingests text from pdf(s), processes it, and makes a word cloud(s). These are useful for things like [concept maps][cmaps].
 <br>
 <br>
 
